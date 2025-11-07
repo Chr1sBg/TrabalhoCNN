@@ -1,0 +1,21 @@
+# Dependências para Classificação de Peças de Roupas usando CNN
+# Atividade: Semana 31/10 a 07/11
+
+# Deep Learning Framework
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Processamento de Imagens
+opencv-python>=4.8.0
+Pillow>=10.0.0
+
+# Computação Científica
+numpy>=1.24.0
+
+# Visualização
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Machine Learning (Validação Cruzada e Métricas)
+scikit-learn>=1.3.0
+
