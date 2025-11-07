@@ -1,3 +1,5 @@
+#integrantes: Christian, Gabriel Costa, Vitor, Yago
+
 import os
 import cv2
 import numpy as np
